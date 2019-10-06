@@ -31,7 +31,7 @@ extern crate curve25519_dalek;
 extern crate rand_core;
 
 #[cfg(test)]
-extern crate rand_os;
+extern crate rand;
 
 mod x25519;
 
